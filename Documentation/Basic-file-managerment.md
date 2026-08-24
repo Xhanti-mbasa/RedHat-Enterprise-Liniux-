@@ -12,13 +12,13 @@ Documents  Music      Public    Videos     wazuh-install.sh
 ```
 > ls arguments
 
-```markdown
+```bash
 #List files with details.
 ls -l
-
-# List files in a [human readable format](./Introduction-to-the-shell.md#human-readable-format) that's easier to read.
+```
+List files in a [human readable format](./Introduction-to-the-shell.md#human-readable-format) that's easier to read.
+```bash
 ls -lh 
-
 ```
 ---
 > cd > Change directories, is used to change from one directory to another, this command can take arguments.
