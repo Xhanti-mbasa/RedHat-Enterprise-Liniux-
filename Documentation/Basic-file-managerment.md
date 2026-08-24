@@ -10,12 +10,13 @@ In linux we can manager files directly from the terminal, using commands like ls
 Desktop    Downloads  Pictures  Templates  wazuh-install-files.tar
 Documents  Music      Public    Videos     wazuh-install.sh
 ```
-> ls arguments 
+> ls arguments
+# List files in a [human readable format](./Introduction-to-the-shell.md#human-readable-format) that's easier to read.
+
 ```bash
 #List files with details.
 ls -l
 
-# List files in a [human readable format](./Introduction-to-the-shell.md#human-readable-format) that's easier to read.
 ls -lh 
 
 ```
