@@ -28,7 +28,7 @@ du -sh /home/xhanti-rhel/
 * `-sh` → Two options combined together:
 
   * `-s` → Summarize the result instead of displaying usage for every subdirectory.
-  * `-h` → Display the output in a human readable format.
+  * `-h` → <span id="human-readable-format">Display the output in a human readable format.</span>
 * `/home/xhanti-rhel/` → The argument specifying the directory we want to check.
 
 The first forward slash in `/home/xhanti-rhel/` represents the root directory. From there, the path goes into the `home` directory and then into the `xhanti-rhel` user's home directory.
