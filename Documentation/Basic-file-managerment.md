@@ -15,7 +15,7 @@ Documents  Music      Public    Videos     wazuh-install.sh
 #List files with details.
 ls -l
 
-# List files in a [human readable format](#human-readable-format) that's easier to read.
+# List files in a [human readable format](./Documentation/Introduction-to-the-shell.md#human-readable-format) that's easier to read.
 ls -lh 
 
 ```
