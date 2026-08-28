@@ -29,7 +29,7 @@ man man
 to learn about `man` itself, including how manual pages are structured and how to navigate them.
 
 ### Learning Takeaway
-
+     
 ```text
 You don't have to memorize every command or know exactly what every command
 does. You can always refer to the manual, also known as the man pages, whenever
